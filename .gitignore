@@ -1,0 +1,17 @@
+# C# Build Artifacts
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# Visual Studio Code files
+.vscode/
+launch.json
+tasks.json
+.history/
+
+# Other
+readme_how_to_start.txt
+results/
+instance/
